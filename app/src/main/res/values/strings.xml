@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RentACar</string>
+    <string name="btnSwitch">Car Rental Companies List</string>
+    <string name="Description">Car Image</string>
+</resources>
